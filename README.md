@@ -1,4 +1,4 @@
-# GLCAM-DNet Gray-Level Co-occurrence Matrix and Attention Mechanism Dehazing Network
+# GLCAM-DNet: Gray-Level Co-occurrence Matrix and Attention Mechanism Dehazing Network
 
 # Requirements and Dependencies
 * Ubuntu 22.04, cuda 11.3 or windows10 ,cuda 11.3
