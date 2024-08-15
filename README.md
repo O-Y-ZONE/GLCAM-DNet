@@ -28,5 +28,6 @@ Example result of MRFID.
 <img src=> 
 
 Example result of RW_Haze.
+
 <img src=>
 
