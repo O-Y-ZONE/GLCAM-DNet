@@ -1,4 +1,4 @@
-# GLCAM-DNet: Gray-Level Co-occurrence Matrix and Attention Mechanism Dehazing Network
+# GLHAB-DNet: Gray-Level Co-occurrence Matrix and Haze-Aware Attention Block Dehazing Network
 
 # Requirements and Dependencies
 * Ubuntu 22.04, cuda 11.3 or windows10 ,cuda 11.3
@@ -13,21 +13,5 @@ The dataset we use is a public dataset and can be downloaded through the followi
 # Testing pipelines
 You need to download the testing dataset and decompress it.
 
-test code:
-    ```
-        
-    ```
-
-## Results 
-Example results on the BeDDE.
-
-<img src=>  
-
-Example result of MRFID.
-
-<img src=> 
-
-Example result of RW_Haze.
-
-<img src=>
+## The code will be announced after employment
 
